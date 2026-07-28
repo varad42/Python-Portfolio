@@ -1,15 +1,2 @@
-# PyCharm
-.idea/
-
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Virtual environments
-venv/
-.venv/
-env/
-
-# Environment variables
-.env
+# created by virtualenv automatically
+*
