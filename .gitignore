@@ -1,2 +1,13 @@
-# created by virtualenv automatically
-*
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Local data
+profile.json
+tasks.json
