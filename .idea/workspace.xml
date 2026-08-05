@@ -5,33 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4f8b919-2015-4299-a917-871f97cedd9e" name="Changes" comment="Day 1 of practising python">
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Lesson's/Lessson_29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python Portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Portfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Lesson's/Day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Lesson's/Lesson_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Lesson's/Day3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Lesson's/Day4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Lesson's/Day5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Lesson's/Day6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Lesson's/Day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Lesson's/Day7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Lesson's/Day8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Lesson's/Day8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Lesson's/Day7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Lesson's/Day8.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,21 +49,24 @@
     "Python.Day6.executor": "Run",
     "Python.Day7.executor": "Run",
     "Python.Day8.executor": "Run",
+    "Python.Lesson_0.executor": "Debug",
     "Python.calculatea^b.executor": "Run",
     "Python.day1.executor": "Run",
     "Python.helpers.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
+    "Python.maximum_number.executor": "Run",
     "Python.no_of_digits.executor": "Run",
     "Python.powerof2.executor": "Run",
     "Python.storage.executor": "Run",
     "Python.sum_of_digits_pascalt.executor": "Run",
+    "Python.swap.executor": "Run",
     "Python.task.executor": "Run",
     "Python.task_1.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -93,8 +74,8 @@
       <recent name="C:\Users\Varad Borole\PycharmProjects\Python Portfolio" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration name="calculatea^b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lesson_0">
+    <configuration name="Day1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,11 +84,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/MathForPrograming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/MathForPrograming/calculatea^b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Day1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lesson_0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Portfolio" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/Lesson_0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="maximum_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Capstone Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Capstone Project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/maximum_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="powerof2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,33 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/MathForPrograming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/MathForPrograming/powerof2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sum_of_digits_pascalt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Portfolio" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/MathForPrograming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/MathForPrograming/sum_of_digits_pascalt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/swap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lesson_0" />
+        <item itemvalue="Python.maximum_number" />
+        <item itemvalue="Python.swap" />
+        <item itemvalue="Python.Day1" />
         <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.calculatea^b" />
-        <item itemvalue="Python.powerof2" />
-        <item itemvalue="Python.sum_of_digits_pascalt" />
       </list>
     </recent_temporary>
   </component>
@@ -298,6 +279,21 @@
           <url>file://$PROJECT_DIR$/Capstone Project/main.py</url>
           <line>11</line>
           <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DSA/Lesson_0.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DSA/Lesson_0.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DSA/Lesson_0.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
