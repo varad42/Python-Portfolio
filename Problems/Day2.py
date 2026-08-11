@@ -25,15 +25,15 @@
 
 # Q.5 Write digit_sum(n) that returns the sum of a number's digits.
 
-# def digit_sum(num):
-#     result = 0
-#     while num!=0:
-#         last_digit = num%10
-#         num = num // 10
-#         result = last_digit + result
-#     return result
-#
-# print(digit_sum(0))
+def digit_sum(num):
+    result = 0
+    while num!=0:
+        last_digit = num%10
+        num = num // 10
+        result = last_digit + result
+    return result
+
+print(digit_sum(153))
 
 # Q.6 Write fibonacci(n) that returns the first n numbers of the Fibonacci sequence as a list (each number is the sum of the previous two).
 #
@@ -51,18 +51,18 @@
 #
 # print(fibonacci(7))
 
-def fibonacci(provided_num):
-    result = []
-    a = 0
-    b = 1
-    while len(result) < provided_num:
-        result.append(a)
-        a, b = b, a + b
-    return result
-
-print(fibonacci(7))   # [0, 1, 1, 2, 3, 5, 8]
-print(fibonacci(1))   # [0]
-print(fibonacci(0))   # []
+# def fibonacci(provided_num):
+#     result = []
+#     a = 0
+#     b = 1
+#     while len(result) < provided_num:
+#         result.append(a)
+#         a, b = b, a + b
+#     return result
+#
+# print(fibonacci(7))   # [0, 1, 1, 2, 3, 5, 8]
+# print(fibonacci(1))   # [0]
+# print(fibonacci(0))   # []
 
 # Q.7 Print numbers 1 to 50, but: for multiples of 3 print "Fizz", multiples of 5 print "Buzz", multiples of both print "FizzBuzz".
 
