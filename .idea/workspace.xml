@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a4f8b919-2015-4299-a917-871f97cedd9e" name="Changes" comment="Day 1 of practising python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathForPrograming/calculatea^b.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/MathForPrograming/calculatea^b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathForPrograming/day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/MathForPrograming/day1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathForPrograming/no_of_digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/MathForPrograming/no_of_digits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathForPrograming/powerof2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/MathForPrograming/powerof2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MathForPrograming/sum_of_digits_pascalt.py" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/MathForPrograming/sum_of_digits_pascalt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Day2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Day2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-practice" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +49,14 @@
     "Python.Lesson_0.executor": "Run",
     "Python.calculatea^b.executor": "Run",
     "Python.day1.executor": "Run",
+    "Python.digit_sum_repeated.executor": "Run",
     "Python.helpers.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
     "Python.maximum_number.executor": "Run",
     "Python.no_of_digits.executor": "Run",
     "Python.powerof2.executor": "Run",
+    "Python.prime_in_range.executor": "Run",
     "Python.storage.executor": "Run",
     "Python.sum_of_digits_pascalt.executor": "Run",
     "Python.swap.executor": "Run",
@@ -79,7 +74,7 @@
       <recent name="C:\Users\Varad Borole\PycharmProjects\Python Portfolio" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Armstrong_number">
+  <component name="RunManager" selected="Python.digit_sum_repeated">
     <configuration name="Armstrong_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
@@ -146,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maximum_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="digit_sum_repeated" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/maximum_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/digit_sum_repeated.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="swap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prime_in_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DSA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DSA/swap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/prime_in_range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.digit_sum_repeated" />
+        <item itemvalue="Python.prime_in_range" />
         <item itemvalue="Python.Armstrong_number" />
         <item itemvalue="Python.Day2" />
         <item itemvalue="Python.Lesson_0" />
-        <item itemvalue="Python.maximum_number" />
-        <item itemvalue="Python.swap" />
       </list>
     </recent_temporary>
   </component>
