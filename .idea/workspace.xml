@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a4f8b919-2015-4299-a917-871f97cedd9e" name="Changes" comment="Day 1 of practising python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/even_odd.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +53,14 @@
     "Python.count_digits.executor": "Run",
     "Python.day1.executor": "Run",
     "Python.digit_sum_repeated.executor": "Run",
+    "Python.even_odd.executor": "Run",
     "Python.factorial.executor": "Debug",
     "Python.helpers.executor": "Run",
+    "Python.linear_search.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main.executor": "Run",
     "Python.max_digit.executor": "Run",
-    "Python.max_in_list.executor": "Debug",
+    "Python.max_in_list.executor": "Run",
     "Python.maximum_number.executor": "Run",
     "Python.no_of_digits.executor": "Run",
     "Python.power.executor": "Run",
@@ -82,7 +85,7 @@
       <recent name="C:\Users\Varad Borole\PycharmProjects\Python Portfolio" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.max_in_list">
+  <component name="RunManager" selected="Python.linear_search">
     <configuration name="Sum and avereage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
@@ -105,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="count_digits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="even_odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/count_digits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/even_odd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="max_digit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="linear_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/max_digit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/linear_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.linear_search" />
+        <item itemvalue="Python.even_odd" />
         <item itemvalue="Python.max_in_list" />
         <item itemvalue="Python.Sum and avereage" />
         <item itemvalue="Python.power" />
-        <item itemvalue="Python.max_digit" />
-        <item itemvalue="Python.count_digits" />
       </list>
     </recent_temporary>
   </component>
