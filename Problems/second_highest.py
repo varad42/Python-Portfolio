@@ -15,7 +15,7 @@ def second_largest(numbers):
             sec_large_num = numbers[i]
 
     return sec_large_num
-print(second_largest([10, 5, 8, 20, 3])) 
+print(second_largest([10, 5, 8, 20, 3]))
 print(second_largest([20, 10]))
 print(second_largest([5, 20, 20, 3]))
 print(second_largest([7]))
