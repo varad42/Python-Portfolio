@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4f8b919-2015-4299-a917-871f97cedd9e" name="Changes" comment="Day 1 of practising python" />
+    <list default="true" id="a4f8b919-2015-4299-a917-871f97cedd9e" name="Changes" comment="Day 1 of practising python">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +55,8 @@
     "Python.digit_sum_repeated.executor": "Run",
     "Python.even_odd.executor": "Run",
     "Python.factorial.executor": "Debug",
+    "Python.frequency _of_char.executor": "Run",
+    "Python.gcd.executor": "Run",
     "Python.helpers.executor": "Run",
     "Python.issorted.executor": "Run",
     "Python.linear_search.executor": "Run",
@@ -62,6 +66,7 @@
     "Python.max_in_list.executor": "Run",
     "Python.maximum_number.executor": "Run",
     "Python.no_of_digits.executor": "Run",
+    "Python.perfect_number.executor": "Run",
     "Python.power.executor": "Run",
     "Python.powerof2.executor": "Run",
     "Python.prime_in_range.executor": "Run",
@@ -74,6 +79,7 @@
     "Python.table.executor": "Run",
     "Python.task.executor": "Run",
     "Python.task_1.executor": "Debug",
+    "Python.two_sum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -86,7 +92,7 @@
       <recent name="C:\Users\Varad Borole\PycharmProjects\Python Portfolio" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dedupe_numbers">
+  <component name="RunManager" selected="Python.frequency _of_char">
     <configuration name="dedupe_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
@@ -109,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="issorted" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="frequency _of_char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/issorted.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/frequency _of_char.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="linear_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="gcd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/linear_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/gcd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverse_in_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="perfect_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/reverse_in_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/perfect_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="second_highest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Portfolio" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,7 +194,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/second_highest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/two_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.frequency _of_char" />
+        <item itemvalue="Python.two_sum" />
+        <item itemvalue="Python.gcd" />
+        <item itemvalue="Python.perfect_number" />
         <item itemvalue="Python.dedupe_numbers" />
-        <item itemvalue="Python.issorted" />
-        <item itemvalue="Python.reverse_in_list" />
-        <item itemvalue="Python.second_highest" />
-        <item itemvalue="Python.linear_search" />
       </list>
     </recent_temporary>
   </component>
@@ -501,6 +507,31 @@
           <url>file://$PROJECT_DIR$/Problems/dedupe_numbers.py</url>
           <line>8</line>
           <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems/frequency _of_char.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems/frequency _of_char.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems/frequency _of_char.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems/frequency _of_char.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems/frequency _of_char.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="113" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
