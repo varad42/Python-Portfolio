@@ -1,10 +1,12 @@
 def dedupe(numbers):
+
     unique_elements = []
     for i in numbers:
         if i in unique_elements:
             continue
         else:
             unique_elements.append(i)
+
 
     return unique_elements
 
