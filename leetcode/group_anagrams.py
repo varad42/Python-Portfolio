@@ -1,3 +1,9 @@
+# LeetCode 49 - Group Anagrams
+# https://leetcode.com/problems/group-anagrams/
+# Time: O(n·k) | Space: O(n·k)   (n words, k letters each)
+# Approach: build each word's letter-count, turn it into a tuple key,
+# group words with the same key in a dict.
+
 def group_anagrams(strs):
     groups = {}
 
@@ -23,8 +29,3 @@ def group_anagrams(strs):
 print(group_anagrams(["act", "pots", "tops", "cat", "stop", "hat"]))
 
 
-# # LeetCode 242_valid_anagram
-# # https://neetcode.io/problems/is-anagram/question?list=neetcode150
-# # Time: O(n) | Space: O(n)
-# # Approach: walk the word.keep count of freq in dict, compare
-# # if dict does'nt match False.

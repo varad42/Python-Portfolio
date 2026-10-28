@@ -1,3 +1,8 @@
+# LeetCode 424 - Longest Repeating Character Replacement
+# https://leetcode.com/problems/longest-repeating-character-replacement/
+# Time: O(n) | Space: O(1)   (at most 26 letters)
+# Approach: sliding window; valid when length − most frequent count ≤ k.
+
 def characterReplacement(s, k):
     left = 0
     counts = {}
