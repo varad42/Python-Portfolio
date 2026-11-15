@@ -1,3 +1,5 @@
+# Complexity: O(n log n) time. The loop is O(n), but sorted costs O(n log n), and the bigger one wins. Space is O(n), for cars and the stack.
+
 def carFleet(target, positon, speed):
     cars = list(zip(positon, speed))
     cars = sorted(cars, reverse=True)
