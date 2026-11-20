@@ -1,5 +1,5 @@
 # binary search on the answer (speed 1..max pile); works → best = mid, go left”, Time O(n log m), Space O(1)
-def minEatingSpeed(piles, hrs):     
+def minEatingSpeed(piles, hrs):
     low = 1
     best = max(piles)
     high = max(piles)
